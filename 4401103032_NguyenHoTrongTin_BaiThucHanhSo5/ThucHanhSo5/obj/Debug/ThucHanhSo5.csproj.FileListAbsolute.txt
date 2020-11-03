@@ -1,0 +1,10 @@
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\bin\Debug\ThucHanhSo5.exe.config
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\bin\Debug\ThucHanhSo5.exe
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\bin\Debug\ThucHanhSo5.pdb
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\obj\Debug\ThucHanhSo5.csprojAssemblyReference.cache
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\obj\Debug\ThucHanhSo5.Form1.resources
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\obj\Debug\ThucHanhSo5.Properties.Resources.resources
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\obj\Debug\ThucHanhSo5.csproj.GenerateResource.cache
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\obj\Debug\ThucHanhSo5.csproj.CoreCompileInputs.cache
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\obj\Debug\ThucHanhSo5.exe
+D:\CNPM\ThucHanhSo5\ThucHanhSo5\obj\Debug\ThucHanhSo5.pdb
