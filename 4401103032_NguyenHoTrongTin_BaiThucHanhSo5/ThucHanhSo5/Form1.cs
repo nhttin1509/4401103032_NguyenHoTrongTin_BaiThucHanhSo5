@@ -46,7 +46,7 @@ namespace ThucHanhSo5
             double csMoi = double.Parse(tbCsMoi.Text);
             double tieuthu = csMoi - csCu;
             tbDienTieuThu.Text = tieuthu.ToString();
-            double thanhtien = tinhTien(csCu, csMoi);
+            double thanhtien = tinhTien(csCu, csMoi)*tieuthu;
             tbThanhTien.Text = thanhtien.ToString();
             thanhtien *= 1.1;
             tbTongTienVAT.Text = thanhtien.ToString();
